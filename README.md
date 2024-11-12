@@ -2,7 +2,7 @@
 
 ## Giới thiệu
 
-Expression Evaluator là một ứng dụng đơn giản được phát triển bằng ngôn ngữ lập trình C# để giải giá trị của biểu thức toán học đầu vào. Ứng dụng hỗ trợ các phép toán cơ bản như cộng (+), trừ (-), nhân (*), chia (/), cũng như các dấu ngoặc đơn để đảm bảo thứ tự thực hiện phép toán chính xác.
+Expression Evaluator là một ứng dụng đơn giản được phát triển bằng ngôn ngữ lập trình C++ để giải giá trị của biểu thức toán học đầu vào. Ứng dụng hỗ trợ các phép toán cơ bản như cộng (+), trừ (-), nhân (*), chia (/), cũng như các dấu ngoặc đơn để đảm bảo thứ tự thực hiện phép toán chính xác.
 
 ## Tính năng
 
